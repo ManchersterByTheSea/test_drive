@@ -1,4 +1,4 @@
-module test_drive
+module github.com/ManchersterByTheSea/test_drive
 
 go 1.15
 
